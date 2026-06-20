@@ -1,0 +1,14 @@
+.scoreboard{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    padding: 1.5rem;
+    background: #1a1a2e;
+    color: #fff;
+}
+
+.scoreboard p{
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin: 0;
+}
