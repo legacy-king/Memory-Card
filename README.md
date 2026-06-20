@@ -26,7 +26,7 @@ npm run dev
 
 ## Live Demo
 
-[View Live](your-deployment-url-here)
+[View Live](https://memory-card-three-lac.vercel.app/)
 
 ## Author
 
